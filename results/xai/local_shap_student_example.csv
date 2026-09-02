@@ -1,0 +1,10 @@
+Feature,Feature_Value,SHAP_Value,Absolute_SHAP,Impact
+internet_access,Yes,3.0752595901489173,3.0752595901489173,Increases prediction
+previous_grade,75,2.966494369506833,2.966494369506833,Increases prediction
+attendance_percent,89,2.738908767700188,2.738908767700188,Increases prediction
+study_time_hours,3,-2.4712396621704116,2.4712396621704116,Decreases prediction
+part_time_job,No,1.4396484375000043,1.4396484375000043,Increases prediction
+sleep_hours,7,0.8089521408081097,0.8089521408081097,Increases prediction
+extracurricular_activities,No,-0.2071964263915973,0.2071964263915973,Decreases prediction
+gender,Female,0.11673316955566548,0.11673316955566548,Increases prediction
+parental_education,High School,-0.022087097167961645,0.022087097167961645,Decreases prediction

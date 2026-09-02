@@ -1,0 +1,9 @@
+Feature,Average_Negative_SHAP
+study_time_hours,-5.51906827926636
+previous_grade,-3.3282885131835966
+part_time_job,-2.218681833902996
+attendance_percent,-2.033060424804687
+sleep_hours,-1.0616965357462547
+extracurricular_activities,-0.269139995574951
+parental_education,-0.06258775075276707
+gender,-0.0158674736022945

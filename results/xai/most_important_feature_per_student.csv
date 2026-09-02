@@ -1,0 +1,6 @@
+Student_Index,Feature,Feature_Value,SHAP_Value
+0,attendance_percent,98.0,4.523885444641111
+1,study_time_hours,6.3,10.067234405517578
+2,previous_grade,88.5,6.347923454284666
+3,previous_grade,85.1,5.45315293121338
+4,study_time_hours,2.2,-6.60339447784424
