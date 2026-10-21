@@ -1,0 +1,16 @@
+{
+  "source": "split-conformal on the 200 hold-out residuals of each model",
+  "n_calibration": 200,
+  "half_width": {
+    "CatBoost (fallback)": {
+      "80": 8.125761381284093,
+      "90": 10.66083439184699,
+      "95": 13.894738822571249
+    },
+    "TabPFN": {
+      "80": 7.623499999999993,
+      "90": 10.004359999999991,
+      "95": 13.597339999999988
+    }
+  }
+}

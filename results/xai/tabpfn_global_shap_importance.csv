@@ -1,0 +1,10 @@
+Feature,Mean_Absolute_SHAP
+study_time_hours,4.9545728130588635
+previous_grade,3.3479372594291243
+part_time_job,1.530541070392509
+attendance_percent,1.3848483701624303
+sleep_hours,1.155484639834568
+internet_access,0.9325271038332719
+extracurricular_activities,0.41200381152115184
+parental_education,0.22942664434593948
+gender,0.03624501495560428

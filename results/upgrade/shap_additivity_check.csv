@@ -1,0 +1,4 @@
+,max_abs_additivity_error
+CatBoost,4.263256414560601e-14
+XGBoost,9.918212890625e-05
+LightGBM,3.268496584496461e-13

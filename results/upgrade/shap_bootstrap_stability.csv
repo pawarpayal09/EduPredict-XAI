@@ -1,0 +1,10 @@
+,Mean_abs_SHAP,Std,CV_percent,Mean_rank,Rank_std,Pct_bootstraps_in_top3
+study_time_hours,5.209,0.26,4.995,1.0,0.0,100.0
+previous_grade,3.358,0.177,5.268,2.0,0.0,100.0
+attendance_percent,2.238,0.247,11.029,3.0,0.0,100.0
+internet_access,1.335,0.139,10.397,4.533,0.73,0.0
+part_time_job,1.248,0.188,15.041,4.833,0.531,0.0
+sleep_hours,1.053,0.171,16.265,5.633,0.765,0.0
+parental_education,0.219,0.079,36.153,7.467,0.507,0.0
+extracurricular_activities,0.211,0.143,67.693,7.733,0.691,0.0
+gender,0.076,0.065,84.78,8.8,0.551,0.0

@@ -1,0 +1,10 @@
+,CatBoost (TreeSHAP),XGBoost (TreeSHAP),LightGBM (TreeSHAP),Ridge (Linear SHAP),CatBoost (Permutation),TabPFN (stored SHAP)
+study_time_hours,5.2674,5.1867,5.2416,5.1939,3.6876,4.9546
+previous_grade,3.3928,3.401,3.4368,3.7178,2.2517,3.3479
+part_time_job,1.3308,1.318,1.3434,1.5054,0.1604,1.5305
+attendance_percent,2.2783,2.2762,2.3505,2.3401,0.9283,1.3848
+sleep_hours,1.0844,1.0755,1.1174,1.0858,0.2219,1.1555
+internet_access,1.4042,1.3342,1.3834,1.5541,0.2907,0.9325
+extracurricular_activities,0.2397,0.2508,0.2953,0.4032,0.0118,0.412
+parental_education,0.1525,0.1317,0.1778,0.2147,-0.0275,0.2294
+gender,0.0336,0.0353,0.0259,0.0677,0.0126,0.0362

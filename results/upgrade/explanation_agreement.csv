@@ -1,0 +1,16 @@
+Method_A,Method_B,Spearman,Kendall_tau
+CatBoost (TreeSHAP),XGBoost (TreeSHAP),1.0,1.0
+CatBoost (TreeSHAP),LightGBM (TreeSHAP),1.0,1.0
+CatBoost (TreeSHAP),Ridge (Linear SHAP),1.0,1.0
+CatBoost (TreeSHAP),CatBoost (Permutation),0.933,0.833
+CatBoost (TreeSHAP),TabPFN (stored SHAP),0.917,0.833
+XGBoost (TreeSHAP),LightGBM (TreeSHAP),1.0,1.0
+XGBoost (TreeSHAP),Ridge (Linear SHAP),1.0,1.0
+XGBoost (TreeSHAP),CatBoost (Permutation),0.933,0.833
+XGBoost (TreeSHAP),TabPFN (stored SHAP),0.917,0.833
+LightGBM (TreeSHAP),Ridge (Linear SHAP),1.0,1.0
+LightGBM (TreeSHAP),CatBoost (Permutation),0.933,0.833
+LightGBM (TreeSHAP),TabPFN (stored SHAP),0.917,0.833
+Ridge (Linear SHAP),CatBoost (Permutation),0.933,0.833
+Ridge (Linear SHAP),TabPFN (stored SHAP),0.917,0.833
+CatBoost (Permutation),TabPFN (stored SHAP),0.833,0.667

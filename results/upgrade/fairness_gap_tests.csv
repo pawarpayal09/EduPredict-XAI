@@ -1,0 +1,11 @@
+Predictor,Attribute,Comparison,MAE_gap,p_value
+"TabPFN (hold-out, n=200)",gender,Female vs Male,0.8691,0.1012
+"TabPFN (hold-out, n=200)",parental_education,all groups (Kruskal-Wallis),0.8869,0.3044
+"TabPFN (hold-out, n=200)",internet_access,No vs Yes,0.6611,0.1164
+"TabPFN (hold-out, n=200)",part_time_job,No vs Yes,-0.7383,0.2704
+"TabPFN (hold-out, n=200)",extracurricular_activities,No vs Yes,-0.0352,0.52
+"CatBoost (5-fold OOF, n=1000)",gender,Female vs Male,0.3809,0.177
+"CatBoost (5-fold OOF, n=1000)",parental_education,all groups (Kruskal-Wallis),0.9465,0.0242
+"CatBoost (5-fold OOF, n=1000)",internet_access,No vs Yes,0.3564,0.074
+"CatBoost (5-fold OOF, n=1000)",part_time_job,No vs Yes,-0.404,0.1369
+"CatBoost (5-fold OOF, n=1000)",extracurricular_activities,No vs Yes,-0.3422,0.4331

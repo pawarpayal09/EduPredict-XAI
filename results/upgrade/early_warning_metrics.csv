@@ -1,0 +1,10 @@
+Model,True_low_cutoff,Flag_if_pred_below,Precision,Recall,F1,AUC
+TabPFN (stored predictions),75.1,75.1,0.725,0.537,0.617,0.9028
+TabPFN (stored predictions),75.1,78.1,0.6567,0.8148,0.7273,0.9028
+TabPFN (stored predictions),75.1,81.1,0.6098,0.9259,0.7353,0.9028
+Ridge (linear),75.1,75.1,0.8235,0.5185,0.6364,0.9069
+Ridge (linear),75.1,78.1,0.6441,0.7037,0.6726,0.9069
+Ridge (linear),75.1,81.1,0.6098,0.9259,0.7353,0.9069
+CatBoost,75.1,75.1,0.8333,0.463,0.5952,0.896
+CatBoost,75.1,78.1,0.6271,0.6852,0.6549,0.896
+CatBoost,75.1,81.1,0.6024,0.9259,0.7299,0.896

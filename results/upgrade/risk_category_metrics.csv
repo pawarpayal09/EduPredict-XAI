@@ -1,0 +1,7 @@
+Model,Scheme,Accuracy,Macro_F1,Within_1_category
+TabPFN (stored predictions),Absolute (original 75/60/50/35),0.82,0.2993,0.995
+TabPFN (stored predictions),Cohort-relative (percentile),0.55,0.5363,0.945
+Ridge (linear),Absolute (original 75/60/50/35),0.84,0.3056,0.995
+Ridge (linear),Cohort-relative (percentile),0.53,0.5052,0.955
+CatBoost,Absolute (original 75/60/50/35),0.825,0.2936,0.995
+CatBoost,Cohort-relative (percentile),0.49,0.4705,0.955

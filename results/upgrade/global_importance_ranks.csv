@@ -1,0 +1,10 @@
+,CatBoost (TreeSHAP),XGBoost (TreeSHAP),LightGBM (TreeSHAP),Ridge (Linear SHAP),CatBoost (Permutation),TabPFN (stored SHAP)
+study_time_hours,1,1,1,1,1,1
+previous_grade,2,2,2,2,2,2
+part_time_job,5,5,5,5,6,3
+attendance_percent,3,3,3,3,3,4
+sleep_hours,6,6,6,6,5,5
+internet_access,4,4,4,4,4,6
+extracurricular_activities,7,7,7,7,8,7
+parental_education,8,8,8,8,9,8
+gender,9,9,9,9,7,9

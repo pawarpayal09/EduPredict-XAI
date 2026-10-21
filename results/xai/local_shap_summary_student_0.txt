@@ -1,0 +1,18 @@
+EduPredict-XAI — Local SHAP Explanation
+============================================================
+
+Student index: 0
+Predicted final exam score: 94.8194
+SHAP base value: 81.2089
+
+Feature Contributions:
+                   Feature Feature_Value  SHAP_Value              Contribution
+        attendance_percent          98.0    5.092639 Increases predicted score
+          study_time_hours           4.0    2.941844 Increases predicted score
+            previous_grade          76.9    2.930994 Increases predicted score
+           internet_access           Yes    1.605154 Increases predicted score
+             part_time_job            No    1.002259 Increases predicted score
+extracurricular_activities           Yes    0.294585 Increases predicted score
+               sleep_hours           6.5   -0.211902 Decreases predicted score
+        parental_education     Bachelors   -0.068538 Decreases predicted score
+                    gender          Male    0.023495 Increases predicted score

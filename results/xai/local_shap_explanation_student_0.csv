@@ -1,0 +1,10 @@
+Feature,Feature_Value,SHAP_Value,Contribution,Absolute_SHAP
+attendance_percent,98.0,5.092638905843096,Increases predicted score,5.092638905843096
+study_time_hours,4.0,2.9418435414632143,Increases predicted score,2.9418435414632143
+previous_grade,76.9,2.9309935251871764,Increases predicted score,2.9309935251871764
+internet_access,Yes,1.6051536560058608,Increases predicted score,1.6051536560058608
+part_time_job,No,1.0022588094075573,Increases predicted score,1.0022588094075573
+extracurricular_activities,Yes,0.2945849100748674,Increases predicted score,0.2945849100748674
+sleep_hours,6.5,-0.21190160115559564,Decreases predicted score,0.21190160115559564
+parental_education,Bachelors,-0.06853815714518419,Decreases predicted score,0.06853815714518419
+gender,Male,0.023494974772127364,Increases predicted score,0.023494974772127364

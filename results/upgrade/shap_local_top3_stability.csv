@@ -1,0 +1,4 @@
+,value
+bootstraps,30.0
+mean_local_top3_jaccard,0.8579
+std_local_top3_jaccard,0.0217

@@ -1,0 +1,60 @@
+student_index,baseline_pred,feasible,best_gain,best_plan,effort
+737,73.73,True,5.44,raise attendance by 10 points; sleep 0.5 h more,1.4
+740,76.23,True,5.85,study +1.5 h/day more,1.5
+678,72.49,True,6.22,study +1.0 h/day more; raise attendance by 5 points,1.5
+513,76.03,True,5.22,raise attendance by 15 points; sleep 0.4 h more,1.82
+859,74.05,True,5.32,study +1.5 h/day more,1.5
+136,66.66,True,5.39,raise attendance by 15 points,1.5
+973,76.29,True,5.59,study +1.0 h/day more,1.0
+899,77.87,True,5.52,study +2.0 h/day more; raise attendance by 5 points,2.5
+280,76.86,True,6.37,study +1.0 h/day more,1.0
+761,60.48,True,5.63,study +1.5 h/day more,1.5
+549,75.68,True,5.16,study +1.0 h/day more,1.0
+101,73.06,True,5.3,study +1.5 h/day more,1.5
+974,77.28,True,5.53,study +0.5 h/day more; raise attendance by 5 points,1.0
+277,77.45,True,5.64,study +1.0 h/day more,1.0
+578,76.32,True,6.28,study +1.5 h/day more,1.5
+617,70.46,True,5.71,study +1.5 h/day more,1.5
+10,65.92,True,5.41,study +1.5 h/day more,1.5
+221,72.27,True,7.04,study +2.0 h/day more,2.0
+820,73.98,True,6.55,study +1.5 h/day more,1.5
+296,72.09,True,5.39,raise attendance by 10 points; sleep 0.5 h more,1.4
+209,72.14,True,5.15,study +1.0 h/day more,1.0
+866,75.97,True,5.8,study +1.0 h/day more; raise attendance by 5 points,1.5
+289,75.11,True,6.32,study +1.5 h/day more,1.5
+589,72.95,True,5.49,study +1.0 h/day more,1.0
+307,73.77,True,5.34,study +1.0 h/day more; sleep 0.5 h more,1.4
+998,75.91,True,6.11,study +1.0 h/day more; raise attendance by 5 points,1.5
+63,76.25,True,5.75,study +1.5 h/day more,1.5
+635,77.46,True,5.4,study +1.0 h/day more; sleep 0.5 h more,1.4
+554,74.42,True,7.08,study +2.0 h/day more,2.0
+168,69.17,True,7.06,raise attendance by 15 points,1.5
+917,74.03,True,5.2,raise attendance by 10 points,1.0
+86,76.95,True,6.01,study +0.5 h/day more; raise attendance by 5 points,1.0
+184,77.3,True,6.52,study +0.5 h/day more; raise attendance by 5 points; sleep 0.5 h more,1.4
+425,75.57,True,5.93,study +1.5 h/day more,1.5
+260,71.15,True,6.25,study +1.0 h/day more; sleep 0.5 h more,1.4
+559,76.19,True,6.48,raise attendance by 15 points,1.5
+583,77.63,True,5.28,study +1.5 h/day more,1.5
+995,76.37,True,5.6,study +0.5 h/day more; raise attendance by 5 points,1.0
+44,74.33,True,5.72,study +1.5 h/day more,1.5
+244,74.58,True,5.21,study +1.5 h/day more,1.5
+822,69.26,True,6.35,study +0.5 h/day more; raise attendance by 10 points,1.5
+643,73.74,True,7.12,study +1.5 h/day more,1.5
+158,70.33,True,6.55,study +0.5 h/day more; raise attendance by 10 points,1.5
+429,74.2,True,6.0,study +1.0 h/day more; raise attendance by 5 points,1.5
+941,76.56,True,5.82,study +1.0 h/day more,1.0
+595,76.71,True,7.01,study +1.5 h/day more,1.5
+767,69.42,True,5.04,raise attendance by 5 points; sleep 1.0 h more,1.3
+298,69.59,True,6.07,study +1.5 h/day more,1.5
+689,77.04,True,5.82,study +0.5 h/day more; raise attendance by 10 points,1.5
+479,76.62,True,6.04,study +1.0 h/day more,1.0
+110,75.07,True,5.12,study +1.5 h/day more,1.5
+486,72.68,True,6.85,study +0.5 h/day more; raise attendance by 10 points,1.5
+677,75.75,True,5.04,study +1.0 h/day more,1.0
+377,77.67,True,5.56,study +1.0 h/day more,1.0
+355,76.57,True,5.47,raise attendance by 15 points,1.5
+942,76.93,True,6.23,study +1.5 h/day more; raise attendance by 5 points,2.0
+213,76.0,True,7.48,study +1.5 h/day more,1.5
+408,72.2,True,5.76,study +1.5 h/day more,1.5
+78,77.33,True,5.68,study +1.0 h/day more,1.0

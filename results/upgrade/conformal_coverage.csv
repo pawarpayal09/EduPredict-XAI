@@ -1,0 +1,22 @@
+Model,Nominal,Empirical_coverage,Coverage_std,Mean_interval_width
+Ridge (linear),80%,0.8119,0.0543,14.75
+Ridge (linear),90%,0.9102,0.041,19.31
+Ridge (linear),95%,0.9615,0.0268,26.33
+Random Forest,80%,0.8116,0.055,16.19
+Random Forest,90%,0.9102,0.0406,21.62
+Random Forest,95%,0.9606,0.028,27.23
+Extra Trees,80%,0.8098,0.0539,16.88
+Extra Trees,90%,0.9114,0.0401,21.66
+Extra Trees,95%,0.9615,0.0273,29.39
+CatBoost,80%,0.8121,0.0559,15.89
+CatBoost,90%,0.9107,0.0398,20.5
+CatBoost,95%,0.961,0.0272,27.24
+XGBoost,80%,0.8108,0.056,15.92
+XGBoost,90%,0.9111,0.0392,20.58
+XGBoost,95%,0.9614,0.0268,29.07
+LightGBM,80%,0.8118,0.0554,15.84
+LightGBM,90%,0.91,0.0397,20.64
+LightGBM,95%,0.9614,0.0267,29.06
+TabPFN (stored predictions),80%,0.8115,0.0555,15.01
+TabPFN (stored predictions),90%,0.9109,0.0398,19.68
+TabPFN (stored predictions),95%,0.9609,0.027,26.51

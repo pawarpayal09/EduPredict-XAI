@@ -1,0 +1,25 @@
+Predictor,Attribute,Group,n,MAE,Bias_pred_minus_actual,RMSE
+"TabPFN (hold-out, n=200)",gender,Female,105,5.397,0.9,6.82
+"TabPFN (hold-out, n=200)",gender,Male,95,4.528,1.438,6.024
+"TabPFN (hold-out, n=200)",parental_education,Bachelors,56,4.714,1.001,6.416
+"TabPFN (hold-out, n=200)",parental_education,High School,96,5.357,1.03,6.72
+"TabPFN (hold-out, n=200)",parental_education,Masters,40,4.47,1.159,6.047
+"TabPFN (hold-out, n=200)",parental_education,PhD,8,4.975,3.734,5.323
+"TabPFN (hold-out, n=200)",internet_access,No,33,5.536,-1.113,6.47
+"TabPFN (hold-out, n=200)",internet_access,Yes,167,4.875,1.604,6.451
+"TabPFN (hold-out, n=200)",part_time_job,No,146,4.785,1.544,6.255
+"TabPFN (hold-out, n=200)",part_time_job,Yes,54,5.523,0.106,6.963
+"TabPFN (hold-out, n=200)",extracurricular_activities,No,95,4.966,1.217,6.151
+"TabPFN (hold-out, n=200)",extracurricular_activities,Yes,105,5.001,1.1,6.716
+"CatBoost (5-fold OOF, n=1000)",gender,Female,510,5.18,0.013,6.536
+"CatBoost (5-fold OOF, n=1000)",gender,Male,490,4.799,0.084,6.102
+"CatBoost (5-fold OOF, n=1000)",parental_education,Bachelors,308,4.843,0.123,6.221
+"CatBoost (5-fold OOF, n=1000)",parental_education,High School,458,5.318,0.117,6.628
+"CatBoost (5-fold OOF, n=1000)",parental_education,Masters,184,4.371,-0.218,5.68
+"CatBoost (5-fold OOF, n=1000)",parental_education,PhD,50,5.246,-0.074,6.407
+"CatBoost (5-fold OOF, n=1000)",internet_access,No,146,5.298,0.733,6.329
+"CatBoost (5-fold OOF, n=1000)",internet_access,Yes,854,4.942,-0.069,6.327
+"CatBoost (5-fold OOF, n=1000)",part_time_job,No,684,4.866,-0.156,6.198
+"CatBoost (5-fold OOF, n=1000)",part_time_job,Yes,316,5.27,0.488,6.598
+"CatBoost (5-fold OOF, n=1000)",extracurricular_activities,No,428,4.798,0.299,5.997
+"CatBoost (5-fold OOF, n=1000)",extracurricular_activities,Yes,572,5.14,-0.14,6.563

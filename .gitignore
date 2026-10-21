@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.log
+catboost_info/
+
+# Large trained TabPFN pickle - regenerate with notebook 06
+models/tabpfn_fitted_model.pkl
